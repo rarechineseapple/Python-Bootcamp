@@ -28,3 +28,5 @@ def calculate_love_score(name1, name2):
 
 
 print(calculate_love_score("John Pork", "Sebastian Lee"))
+
+# Fun nested loop thingy I thought i could use as a reference for future coding challenges.
